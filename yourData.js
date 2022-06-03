@@ -3,17 +3,17 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "chetan",
+  name: "Sudhir bhargav",
   headerTaglineOne: "Hello 👋",
   headerTaglineTwo:
-    "I'm Chetan Verma - curious designer and devloper based in New Delhi, India. ",
+    "I'm Sudhir Bhargav - I build things for the web. ",
 
   socials: [
-    { title: "Github", link: "https://github.com/chetanverma16" },
-    { title: "LinkedIn", link: "https://www.linkedin.com/in/chetanverma7/" },
-    { title: "Twitter", link: "https://twitter.com/realchetanverma" },
-    { title: "Blog", link: "https://blog.chetanverma.com/" },
-    { title: "Email", link: "mailto:hello@chetanverma.com" },
+    { title: "Github", link: "https://github.com/sudhirbhargav" },
+    { title: "LinkedIn", link: "https://www.linkedin.com/in/sudhir-bhargav/" },
+    { title: "Twitter", link: "https://twitter.com/BotSudhir" },
+    // { title: "Blog", link: "https://blog.chetanverma.com/" },
+    { title: "Email", link: "mailto:sudhirbhargav100@gmail.com" },
   ],
 
   // End Header Details -----------------------
@@ -21,59 +21,58 @@ export default {
   // Work Section ------------------------
   projects: [
     {
-      title: "Project One", //Project Title - Add Your Project Title Here
-      description: "Web Design",
+      title: "The Outnet", //Project Title - Add Your Project Title Here
+      description: "THE OUTNET is a company operating as a fashion retailer.",
       //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      imageSrc:"https://i.postimg.cc/4yj9j9bn/Workpic.png",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://github.com/sudhirbhargav/TheOutNet",
     },
     {
-      title: "Project Two", //Project Title - Add Your Project Title Here
-      description: "Web Development",
+      title: "The Home Depot", //Project Title - Add Your Project Title Here
+      description: "The Home Depot, is the home improvement retailer in the United States",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+        "https://i.postimg.cc/CxGq6dZL/thehome.png",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://github.com/sudhirbhargav/Unit3_construct_week",
     },
     {
       title: "Project Three", //Project Title - Add Your Project Title Here
       description: "Design",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://i.postimg.cc/Xvxy4hcR/homes-Page.png",
       //Project URL - Add Your Project Url Here
       url: "http://chetanverma.com/",
     },
-    {
-      title: "Project Four", //Project Title - Add Your Project Title Here
-      description: "Marketing",
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
-    },
-    {
-      title: "Project Five", //Project Title - Add Your Project Title Here
-      description: "Development",
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
-    },
-    {
-      title: "Project Six", //Project Title - Add Your Project Title Here
-      description: "Design & Development",
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
-    },
+    // {
+    //   title: "Project Four", //Project Title - Add Your Project Title Here
+    //   description: "Marketing",
+    //   //Project Image - Add Your Project Image Here
+    //   imageSrc:
+    //     "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+    //   //Project URL - Add Your Project Url Here
+    //   url: "http://chetanverma.com/",
+    // },
+    // {
+    //   title: "Project Five", //Project Title - Add Your Project Title Here
+    //   description: "Development",
+    //   //Project Image - Add Your Project Image Here
+    //   imageSrc:
+    //     "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+    //   //Project URL - Add Your Project Url Here
+    //   url: "http://chetanverma.com/",
+    // },
+    // {
+    //   title: "Project Six", //Project Title - Add Your Project Title Here
+    //   description: "Design & Development",
+    //   //Project Image - Add Your Project Image Here
+    //   imageSrc:
+    //     "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+    //   //Project URL - Add Your Project Url Here
+    //   url: "http://chetanverma.com/",
+    // },
 
     /*
     If You Want To Add More Project just Copy and Paste This At The End
@@ -90,34 +89,34 @@ export default {
 
   // Services Section ---------------
 
-  services: [
-    {
-      title: "Art Direction",
-      description:
-        "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance.",
-    },
-    {
-      title: "Branding",
-      description:
-        "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors.",
-    },
-    {
-      title: "Web Design",
-      description:
-        "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel.",
-    },
-    {
-      title: "3D Design",
-      description:
-        "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life.",
-    },
-  ],
+  // services: [
+  //   {
+  //     title: "Art Direction",
+  //     description:
+  //       "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance.",
+  //   },
+  //   {
+  //     title: "Branding",
+  //     description:
+  //       "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors.",
+  //   },
+  //   {
+  //     title: "Web Design",
+  //     description:
+  //       "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel.",
+  //   },
+  //   {
+  //     title: "3D Design",
+  //     description:
+  //       "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life.",
+  //   },
+  // ],
 
   // End Services Section --------------------------
 
   // About Secton --------------
   aboutpara:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "Hi Everyone! I am Mohak Tripathi. I always believe that direction is far more important than speed. Keeping that in mind and understanding my inner self and where the world is heading, I decided to make a pivot in my career to become a software developerI love to be involved with technology and I have a desire to build web applications that can impact millions of life positively. . At Masai School in the last 7 months, I built a number of web applications using the MERN stack and developed key projects in it. I have also inculcated the skills like teamwork, leadership, empathy, compassion, and communication. After months of rigorous training, here I am looking for an opportunity as a full stack web developer.",
   //   End About Section ---------------------
 };
 
